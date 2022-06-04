@@ -1,0 +1,78 @@
+{
+    "name": "shades",
+    "displayName": "Shades",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "keywords": [
+        "Themes",
+        "Shades White",
+        "Shades Green",
+        "Shades Green II",
+        "Shades Pink White",
+        "Shades Blue",
+        "Shades Red",
+        "Shades Morita",
+        "Shades Yellow"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shades White",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesVIII-color-theme.json"
+            },
+            {
+                "label": "Shades Green",
+                "uiTheme": "vs",
+                "path": "./themes/Shades-color-theme.json"
+            },
+            {
+                "label": "Shades Green II",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesII-color-theme.json"
+            },
+            {
+                "label": "Shades Pink White",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesIII-color-theme.json"
+            },
+            {
+                "label": "Shades Blue",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesIV-color-theme.json"
+            },
+            {
+                "label": "Shades Red",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesV-color-theme.json"
+            },
+            {
+                "label": "Shades Morita",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesVI-color-theme.json"
+            },
+            {
+                "label": "Shades Yellow",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesVII-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/ShadesThemeVSC.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
