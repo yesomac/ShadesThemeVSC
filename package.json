@@ -15,7 +15,9 @@
         "Shades Blue",
         "Shades Red",
         "Shades Morita",
-        "Shades Yellow"
+        "Shades Yellow",
+        "Shades Orange",
+        "Shades Green Yellow"
     ],
     "categories": [
         "Themes"
@@ -61,6 +63,16 @@
                 "label": "Shades Yellow",
                 "uiTheme": "vs",
                 "path": "./themes/ShadesVII-color-theme.json"
+            },
+            {
+                "label": "Shades Orange",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesIX-color-theme.json"
+            },
+            {
+                "label": "Shades Green Yellow",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesX-color-theme.json"
             }
         ]
     },

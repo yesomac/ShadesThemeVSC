@@ -16,6 +16,7 @@
     "statusBar.foreground": "#2b2b2b",
     "statusBar.noFolderBackground": "#e2e5ff",
     "statusBar.debuggingBackground": "#2f3968",
+    "statusBar.debuggingForeground": "#fff",
     "badge.background": "#748cf7",
     "badge.foreground": "#fff",
     "activityBar.activeBackground": "#fff",
@@ -107,7 +108,7 @@
     "scrollbarSlider.background": "#acb4fc",
     "scrollbarSlider.activeBackground": "#908fe3",
     "minimapSlider.background": "#0000001a",
-    "minimapSlider.hoverBackground": "#fbfb93",
+    "minimapSlider.hoverBackground": "#e2e5ffa1",
     "minimapSlider.activeBackground": "#00000028",
     "editor.rangeHighlightBackground": "#c8cceee1",
     "editor.rangeHighlightBorder": "#418ec1", //9ad23171

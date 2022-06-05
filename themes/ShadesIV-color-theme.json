@@ -16,6 +16,7 @@
     "statusBar.foreground": "#2b2b2b",
     "statusBar.noFolderBackground": "#e7ffed",
     "statusBar.debuggingBackground": "#1e2544",
+    "statusBar.debuggingForeground": "#fff",
     "badge.background": "#74f795",
     "activityBar.activeBackground": "#e2e5ff",
     "activityBar.background": "#e2e5ff",
@@ -106,12 +107,12 @@
     "scrollbarSlider.background": "#acb4fc",
     "scrollbarSlider.activeBackground": "#908fe3",
     "minimapSlider.background": "#0000001a",
-    "minimapSlider.hoverBackground": "#fbfb93",
+    "minimapSlider.hoverBackground": "#93bdfb8c",
     "minimapSlider.activeBackground": "#00000028",
     "editor.rangeHighlightBackground": "#c8cceee1",
     "editor.rangeHighlightBorder": "#418ec1", //9ad23171
     "editor.selectionHighlightBackground": "#7eccb8", //pe
-    "editor.wordHighlightBackground": "#adb5f7d2",
+    "editor.wordHighlightBackground": "#7b87fada",
     "editor.wordHighlightStrongBackground": "#b37df0",
     "editor.wordHighlightStrongBorder": "#f1ffb9",
     "editorBracketHighlight.foreground1": "#ec2a4a",

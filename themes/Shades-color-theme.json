@@ -16,6 +16,7 @@
 		"statusBar.foreground": "#011c08",
 		"statusBar.noFolderBackground": "#e7ffed",
 		"statusBar.debuggingBackground": "#1e4427",
+		"statusBar.debuggingForeground": "#fff",
 		"badge.background": "#f7ea74",
 		"activityBar.activeBackground": "#e0fde8",
 		"activityBar.background": "#e0fde8",
