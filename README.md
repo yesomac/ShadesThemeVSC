@@ -25,6 +25,12 @@
 ## Shades Yellow
 ![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/8.shades_yellow.png?raw=true)
 
+## Shades Orange
+![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/9.shades_orange.png?raw=true)
+
+## Shades Green Yellow
+![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/10.shades_yellow_green.png?raw=true)
+
 ---
 **Level 2** coming soon
 
