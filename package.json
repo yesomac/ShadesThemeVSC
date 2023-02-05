@@ -2,7 +2,7 @@
     "name": "shadesTheme",
     "displayName": "Shades",
     "description": "",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -73,6 +73,21 @@
                 "label": "Shades Green Yellow",
                 "uiTheme": "vs",
                 "path": "./themes/ShadesX-color-theme.json"
+            },
+            {
+                "label": "Shades White W",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesVIII-W-color-theme.json"
+            },
+            {
+                "label": "Shades Green W",
+                "uiTheme": "vs",
+                "path": "./themes/Shades-W-color-theme.json"
+            },
+            {
+                "label": "Shades Yellow W",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesVII-w-color-theme.json"
             }
         ]
     },
