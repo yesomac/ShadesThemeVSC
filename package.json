@@ -2,22 +2,14 @@
     "name": "shadesTheme",
     "displayName": "Shades",
     "description": "",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.67.0"
     },
     "keywords": [
         "Themes",
-        "Shades White",
-        "Shades Green",
-        "Shades Green II",
-        "Shades Pink White",
-        "Shades Blue",
-        "Shades Red",
-        "Shades Morita",
-        "Shades Yellow",
-        "Shades Orange",
-        "Shades Green Yellow"
+        "White",
+        "light"
     ],
     "categories": [
         "Themes"
@@ -88,6 +80,11 @@
                 "label": "Shades Yellow W",
                 "uiTheme": "vs",
                 "path": "./themes/ShadesVII-w-color-theme.json"
+            },
+            {
+                "label": "Shades Morita W",
+                "uiTheme": "vs",
+                "path": "./themes/ShadesVI-W-color-theme.json"
             }
         ]
     },
