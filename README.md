@@ -2,9 +2,12 @@
 
 Today | The next level of productivity
 <https://today-app-2a552.web.app/>
----
 
+## Light
 ![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-1.png?raw=true)
+
+## Night
+![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-dark.jpg?raw=true)
 
 
 <!-- ![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-3.png?raw=true)

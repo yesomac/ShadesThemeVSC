@@ -68,8 +68,8 @@
     "statusBar.focusBorder": "#35393d",
     "statusBar.foreground": "#e4ecf5",
     "statusBarItem.hoverBackground": "#14181d",
-    "statusBarItem.remoteBackground": "#5e3401",
-    "statusBarItem.remoteForeground": "#f1cca2",
+    "statusBarItem.remoteBackground": "#071516",
+    "statusBarItem.remoteForeground": "#d5f3f5",
 
     //menu
     "menu.background": "#040709",
