@@ -85,6 +85,22 @@
                 "label": "Shades Morita W",
                 "uiTheme": "vs",
                 "path": "./themes/ShadesVI-W-color-theme.json"
+            },
+
+            {
+                "label": "Shades Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shades-Night-color-theme.json"
+            },
+            {
+                "label": "Shades Evening",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shades-Evening-color-theme.json"
+            },
+            {
+                "label": "Shades Deep Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shades-Deep-Night-color-theme.json"
             }
         ]
     },
