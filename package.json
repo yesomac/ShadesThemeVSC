@@ -101,6 +101,21 @@
                 "label": "Shades Deep Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Shades-Deep-Night-color-theme.json"
+            },
+            {
+                "label": "Shades 23",
+                "uiTheme": "vs",
+                "path": "./themes/Shades23-color-theme.json"
+            },
+            {
+                "label": "Shades 23.2",
+                "uiTheme": "vs",
+                "path": "./themes/Shades23-O-color-theme.json"
+            },
+            {
+                "label": "Shades 23 Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shades23-dark-color-theme.json"
             }
         ]
     },
