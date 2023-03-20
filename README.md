@@ -2,13 +2,15 @@
 
 #### Today | Do It Today
 <https://today-63513.web.app/>
-![this is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/today5.png?raw=true)
 
 ## Light
 ![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-1.png?raw=true)
 
 ## Night
 ![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-dark.jpg?raw=true)
+
+---
+![this is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/today5.png?raw=true)
 
 ---
 **Fonts:** 
