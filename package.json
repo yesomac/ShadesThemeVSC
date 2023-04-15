@@ -2,7 +2,7 @@
     "name": "shadesTheme",
     "displayName": "Shades",
     "description": "",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -113,9 +113,19 @@
                 "path": "./themes/Shades23-O-color-theme.json"
             },
             {
+                "label": "Shades 23.3",
+                "uiTheme": "vs",
+                "path": "./themes/Shades23-33-color-theme.json"
+            },
+            {
                 "label": "Shades 23 Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Shades23-dark-color-theme.json"
+            },
+            {
+                "label": "Shades 23 Dark S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shades23-s-dark-color-theme.json"
             }
         ]
     },
