@@ -27,6 +27,11 @@
                 "path": "./themes/Shadesxx-dark-color-theme.json"
             },
             {
+                "label": "Shades Dark X",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shadesxx-dark--Xcolor-theme.json"
+            },
+            {
                 "label": "Shades White",
                 "uiTheme": "vs",
                 "path": "./themes/ShadesVIII-color-theme.json"
