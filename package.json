@@ -17,6 +17,16 @@
     "contributes": {
         "themes": [
             {
+                "label": "Shades",
+                "uiTheme": "vs",
+                "path": "./themes/Shadesxx-color-theme.json"
+            },
+            {
+                "label": "Shades Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shadesxx-dark-color-theme.json"
+            },
+            {
                 "label": "Shades White",
                 "uiTheme": "vs",
                 "path": "./themes/ShadesVIII-color-theme.json"
