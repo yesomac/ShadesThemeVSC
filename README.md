@@ -10,6 +10,8 @@
 
 ![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-dark-23.png?raw=true)
 
+![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-dark-x.png?raw=true)
+
 ## Light
 
 ![This is a image](https://github.com/yesomac/ShadesThemeVSC/blob/main/img/shades-1.png?raw=true)
