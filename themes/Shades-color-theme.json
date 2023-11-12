@@ -41,7 +41,7 @@
 		"editor.selectionBackground": "#70e6b0be",
 		"editor.inactiveSelectionBackground": "#c4e9cd",
 		"editor.lineHighlightBackground": "#d8f7e2", //
-		"editorIndentGuide.activeBackground": "#58c5c7", //
+		"editorIndentGuide.activeBackground1": "#58c5c7", //
 		"notifications.background": "#e0fde8",
 		"button.background": "#6b9477",
 		"button.secondaryBackground": "#6898db",
@@ -149,7 +149,7 @@
 		"list.inactiveSelectionIconForeground": "#242424",
 		"icon.foreground": "#242424",
 		"tree.indentGuidesStroke": "#026b1c",
-		"editorIndentGuide.background": "#7a9ff017",
+		"editorIndentGuide.background1": "#7a9ff017",
 		//activityBar
 		"activityBar.border": "#fff",
 		//"activityBar.border": "#fff",
